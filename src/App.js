@@ -59,10 +59,6 @@ function App() {
         {time > 0 ? "Start" : "Restart"}
       </button>
       <br />
-      <footer>
-        <img src="https://img.icons8.com/color/32/000000/twitter--v1.png" />
-        <span>vaibhav10022002</span>
-      </footer>
     </div>
   );
 }
