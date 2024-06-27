@@ -61,7 +61,7 @@ function App() {
       <br />
       <footer>
         <img src="https://img.icons8.com/color/32/000000/twitter--v1.png" />
-        <span>akramnarejo</span>
+        <span>vaibhav10022002</span>
       </footer>
     </div>
   );
